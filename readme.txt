@@ -7,3 +7,5 @@ git can help a lot
 git is a free software
 
 git is the one i want to conquer
+
+leanring git is important
